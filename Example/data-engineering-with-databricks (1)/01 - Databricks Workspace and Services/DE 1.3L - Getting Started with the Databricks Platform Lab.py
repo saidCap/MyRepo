@@ -162,7 +162,8 @@ display(example_df)
 
 # COMMAND ----------
 
-
+# MAGIC %md
+# MAGIC - header
 
 # COMMAND ----------
 
